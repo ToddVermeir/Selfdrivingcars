@@ -1,0 +1,31 @@
+* { padding:0px;
+    margin:0px;
+    background-color: rgb(186, 183, 182);
+    font-family: 'Raleway',;
+    color:black;
+  }
+
+h1 { color:rgb(18, 35, 201);
+font-size:60px;
+text-align: center;}
+
+nav ul a{
+  text-decoration: none;
+
+
+}
+nav a:hover {
+  color:rgb(4, 11, 106);
+}
+nav li {
+  font-size: 30px;
+  display: inline-block;
+  padding: 50px 50px;
+
+}
+nav ul {
+text-align: center;
+}
+.img {
+  text-align: center;
+}
